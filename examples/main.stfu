@@ -1,0 +1,24 @@
+stfuclear();
+
+var u_so_funny = 'https://tenor.com/view/you-so-funny-youre-so-funny-funny-dogs-gif-13202045';
+
+stfuprint(u_so_funny);
+
+stfu();
+
+
+function stfufunction() 
+{
+    print("STFU!!!!!!");
+};
+
+stfufunction();
+
+function otherstfufunction(stfu1, stfu2) 
+{
+    print("stfu!");
+    print(stfu1)
+    print("stfu!");
+    print(stfu2)
+    
+};
