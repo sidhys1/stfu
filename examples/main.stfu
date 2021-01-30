@@ -22,3 +22,5 @@ function otherstfufunction(stfu1, stfu2)
     print(stfu2)
     
 };
+
+stfutroll();
