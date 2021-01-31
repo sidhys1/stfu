@@ -1,5 +1,5 @@
 # stfu
-The STFU language ( this was a joke ) 
+The STFU language ( made for quaggy )
 
 features:
 
